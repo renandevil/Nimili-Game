@@ -18,6 +18,7 @@
 * No futuro irá ter mais opções para gastar moedas, comprando um novo gatinho e mais!
 
 # 🔗 Links Importantes e atalhos
+* [Política de Privacidade](https://nimiligame.blogspot.com/2022/09/privacy-policy-para-idioma-portugues.html)
 * [Twitter.com/NimiliGame](https://twitter.com/NimiliGame)
 * [Discord](https://discord.gg/kncpMgQ48X)
 *Entre no discord, onde todos os jogadores se reunem para falar sobre o jogo e bater metas de clicks criando competição!*
