@@ -14,9 +14,10 @@
 # Disponível na Google Play Store
 
 # 🔗 Links Importantes e atalhos
-[Twitter.com/NimiliGame](https://twitter.com/NimiliGame)
-[Discord](https://discord.gg/kncpMgQ48X)
+* [Twitter.com/NimiliGame](https://twitter.com/NimiliGame)
+* [Discord](https://discord.gg/kncpMgQ48X)
+*Entre no discord, onde todos os jogadores se reunem para falar sobre o jogo e bater metas de clicks criando competição!*
 
 # 🔗 Desenvolvedor
-[Instagram.com/renandevil](https://instagram.com/renandevil)
-[Twitter.com/RenanDevill](https://twitter.com/RenanDevill)
+* [Instagram.com/renandevil](https://instagram.com/renandevil)
+* [Twitter.com/RenanDevill](https://twitter.com/RenanDevill)
