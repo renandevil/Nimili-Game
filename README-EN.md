@@ -18,6 +18,7 @@
 * In the future you will have more options for spending coins, buying a new kitten and more!
 
 # 🔗 Important Links and Shortcuts
+* [Privacy Policy](https://nimiligame.blogspot.com/2022/09/privacy-policy-para-idioma-portugues.html)
 * [Twitter.com/NimiliGame](https://twitter.com/NimiliGame)
 * [Discord](https://discord.gg/kncpMgQ48X)
 *Join discord, where all players get together to talk about the game and hit click goals creating competition!*
