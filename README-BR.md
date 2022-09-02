@@ -11,7 +11,7 @@
 * Em constante desenvolvimento, ouvindo todos os feedbacks, Renan Devil é um desenvolvedor brasileiro que quer deixar o Nimili cada vez mais fofo!
 
 ![image](https://media.discordapp.net/attachments/1015256888520228996/1015262751288991884/Made_by_Renan_Devil_1.png?width=832&height=468)
-# Disponível na Google Play Store
+# [Disponível na Google Play Store](https://play.google.com/store/apps/details?id=com.renandevil.nimili)
 
 * Este jogo de clciker minimalista foi criado apenas por um desenvolvedor, ao clicar na tela o jogo te da moedas, com essas moedas é possível melhorar seus cliques na loja e ganhar mais moedas.
 
