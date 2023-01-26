@@ -25,4 +25,4 @@
 
 # 🔗 Desenvolvedor
 * [Instagram.com/renandevil](https://instagram.com/renandevil)
-* [Twitter.com/RenanDevill](https://twitter.com/RenanDevill)
+* [Twitter.com/RenanDevill](https://twitter.com/renandevil_)
